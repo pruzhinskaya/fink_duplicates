@@ -32,60 +32,60 @@
 
 Ранг  ObjectID             L2 Расстояние       
 --------------------------------------------------
-1     ZTF18abnozzo         5.9708              
-2     ZTF17aabkygn         7.8726              
-3     ZTF21aavnngi         8.5153              
-4     ZTF18abjgdih         8.7572              
-5     ZTF17aabkyhn         9.1469              
-6     ZTF18aahhxsc         9.1541              
-7     ZTF17aabtjmc         9.2489              
-8     ZTF17aaawcrh         9.7881              
-9     ZTF19aacrazs         9.8241              
-10    ZTF18adjjheh         9.8757              
+1     ZTF18abnozzo         5.9708        CV     
+2     ZTF17aabkygn         7.8726        ?      
+3     ZTF21aavnngi         8.5153        ?      
+4     ZTF18abjgdih         8.7572        CV      
+5     ZTF17aabkyhn         9.1469        ?      
+6     ZTF18aahhxsc         9.1541        ?      
+7     ZTF17aabtjmc         9.2489        CV      
+8     ZTF17aaawcrh         9.7881        CV      
+9     ZTF19aacrazs         9.8241        ?      
+10    ZTF18adjjheh         9.8757        CV      
 
 --- 🎯 10 ближайших уникальных соседей для: ZTF18aajwgru ---
 
 Ранг  ObjectID             L2 Расстояние       
 --------------------------------------------------
-1     ZTF18aaldbjl         0.5098              
-2     ZTF20abghsvj         0.5376              
-3     ZTF18absgkje         0.5470              
-4     ZTF18acesfqt         0.5594              
-5     ZTF23abbakgn         0.5651              
-6     ZTF22aaijyxb         0.5902              
-7     ZTF22abuajlg         0.5950              
-8     ZTF21aazmrnd         0.5972              
-9     ZTF23aaswqnv         0.6059              
-10    ZTF21abezdhh         0.6351              
+1     ZTF18aaldbjl         0.5098        EB      
+2     ZTF20abghsvj         0.5376        M      
+3     ZTF18absgkje         0.5470        EB      
+4     ZTF18acesfqt         0.5594        QSO      
+5     ZTF23abbakgn         0.5651        SN?      
+6     ZTF22aaijyxb         0.5902        ?      
+7     ZTF22abuajlg         0.5950        QSO      
+8     ZTF21aazmrnd         0.5972        QSO      
+9     ZTF23aaswqnv         0.6059        QSO      
+10    ZTF21abezdhh         0.6351        ?      
 
 --- 🎯 10 ближайших уникальных соседей для: ZTF18abigrzf ---
 
 Ранг  ObjectID             L2 Расстояние       
 --------------------------------------------------
-1     ZTF17aabqwwv         1.0261              
-2     ZTF24aavmxer         1.0700              
-3     ZTF25aacmisi         1.0799              
-4     ZTF20aauxklw         1.1043              
-5     ZTF19aarpxwr         1.1120              
-6     ZTF19acnotuz         1.1188              
-7     ZTF17aabqtny         1.1317              
-8     ZTF20abendzw         1.1327              
-9     ZTF19aawqgzq         1.1472              
-10    ZTF19abcqpfw         1.1714              
+1     ZTF17aabqwwv         1.0261        EB     
+2     ZTF24aavmxer         1.0700        ?      
+3     ZTF25aacmisi         1.0799        SR      
+4     ZTF20aauxklw         1.1043        QSO      
+5     ZTF19aarpxwr         1.1120        QSO      
+6     ZTF19acnotuz         1.1188        VAR      
+7     ZTF17aabqtny         1.1317        EB      
+8     ZTF20abendzw         1.1327        M      
+9     ZTF19aawqgzq         1.1472        M      
+10    ZTF19abcqpfw         1.1714        M      
 
 --- 🎯 10 ближайших уникальных соседей для: ZTF18adibadz ---
 
 Ранг  ObjectID             L2 Расстояние       
 --------------------------------------------------
-1     ZTF18abuzkke         1.4999              
-2     ZTF18abppzrz         1.6593              
-3     ZTF18ablqngl         1.6631              
-4     ZTF17aabwwkq         1.6802              
-5     ZTF18acayhhe         1.7335              
-6     ZTF18abhjsog         1.8452              
-7     ZTF18abegouh         1.9163              
-8     ZTF18aayfamy         1.9216              
-9     ZTF18aayecfb         1.9270              
-10    ZTF18abdwgxk         1.9519              
+1     ZTF18abuzkke         1.4999        M      
+2     ZTF18abppzrz         1.6593        M      
+3     ZTF18ablqngl         1.6631        M      
+4     ZTF17aabwwkq         1.6802        M      
+5     ZTF18acayhhe         1.7335        M      
+6     ZTF18abhjsog         1.8452        M      
+7     ZTF18abegouh         1.9163        M      
+8     ZTF18aayfamy         1.9216        M      
+9     ZTF18aayecfb         1.9270        M      
+10    ZTF18abdwgxk         1.9519        M      
 
 ================================================================================
