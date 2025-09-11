@@ -34,30 +34,30 @@
 
 Ранг  ObjectID             L2 Расстояние       
 --------------------------------------------------
-1     ZTF24abasjxg         0.7463              
-2     ZTF20abmkioz         0.7678              
-3     ZTF24aaqtylr         0.7833              
-4     ZTF21aapzmyt         0.8091              
-5     ZTF20abaobsn         0.8416              
-6     ZTF21aasnlro         0.8476              
-7     ZTF23aaorenb         0.8584              
-8     ZTF18accmrtn         0.8676              
-9     ZTF24aahktcq         0.8809              
-10    ZTF18acruzld         0.8824              
+1     ZTF24abasjxg         0.7463        ?      
+2     ZTF20abmkioz         0.7678        QSO      
+3     ZTF24aaqtylr         0.7833        QSO      
+4     ZTF21aapzmyt         0.8091        QSO      
+5     ZTF20abaobsn         0.8416        QSO      
+6     ZTF21aasnlro         0.8476        QSO      
+7     ZTF23aaorenb         0.8584        QSO      
+8     ZTF18accmrtn         0.8676        QSO      
+9     ZTF24aahktcq         0.8809        QSO      
+10    ZTF18acruzld         0.8824        EB      
 
 --- 🎯 10 ближайших уникальных соседей для: ZTF24abfaake ---
 
 Ранг  ObjectID             L2 Расстояние       
 --------------------------------------------------
-1     ZTF19abawcar         0.6804              
-2     ZTF19abcwywz         0.7433              
-3     ZTF18abuleyn         0.7490              
-4     ZTF20aaozskh         0.7503              
-5     ZTF19aasfgue         0.8187              
-6     ZTF18abbwxsf         0.8262              
-7     ZTF19aagfiap         0.8395              
-8     ZTF19abapdkn         0.8547              
-9     ZTF18abqyjuj         0.8715              
-10    ZTF19aasiwlr         0.8764              
+1     ZTF19abawcar         0.6804        EB      
+2     ZTF19abcwywz         0.7433        M      
+3     ZTF18abuleyn         0.7490        QSO      
+4     ZTF20aaozskh         0.7503        QSO      
+5     ZTF19aasfgue         0.8187        ?      
+6     ZTF18abbwxsf         0.8262        ?      
+7     ZTF19aagfiap         0.8395        QSO      
+8     ZTF19abapdkn         0.8547        QSO      
+9     ZTF18abqyjuj         0.8715        QSO      
+10    ZTF19aasiwlr         0.8764        SR      
 
 ================================================================================
