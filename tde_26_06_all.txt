@@ -34,30 +34,30 @@
 
 Ранг  ObjectID             L2 Расстояние       
 --------------------------------------------------
-1     ZTF23aascnus         2.3348              
-2     ZTF19aanxzjp         2.5990              
-3     ZTF21aazrtkk         2.6575              
-4     ZTF19aapwbqx         2.7011              
-5     ZTF22abqhhvg         2.7023              
-6     ZTF21aapvkmx         2.7050              
-7     ZTF18aatjfmw         2.7331              
-8     ZTF19abkfdee         2.7356              
-9     ZTF22aaiibkw         2.8092              
-10    ZTF22aaylqjp         2.8350              
+1     ZTF23aascnus         2.3348           VAR   
+2     ZTF19aanxzjp         2.5990           QSO   
+3     ZTF21aazrtkk         2.6575           QSO   
+4     ZTF19aapwbqx         2.7011           QSO   
+5     ZTF22abqhhvg         2.7023           QSO   
+6     ZTF21aapvkmx         2.7050           QSO   
+7     ZTF18aatjfmw         2.7331           QSO   
+8     ZTF19abkfdee         2.7356           QSO   
+9     ZTF22aaiibkw         2.8092           QSO   
+10    ZTF22aaylqjp         2.8350           QSO   
 
 --- 🎯 10 ближайших уникальных соседей для: ZTF24abfaake ---
 
 Ранг  ObjectID             L2 Расстояние       
 --------------------------------------------------
-1     ZTF21abryplq         2.0968              
-2     ZTF24abimtdl         2.1204              
-3     ZTF19aaltuhw         2.1370              
-4     ZTF18abqvwgc         2.1547              
-5     ZTF20acjkcxh         2.1821              
-6     ZTF24abqaeai         2.1947              
-7     ZTF23aaekere         2.3318              
-8     ZTF18abqvuvc         2.3874              
-9     ZTF19aalogva         2.4238              
-10    ZTF18acyeiup         2.4307              
+1     ZTF21abryplq         2.0968           QSO    
+2     ZTF24abimtdl         2.1204           TDE?   
+3     ZTF19aaltuhw         2.1370           QSO   
+4     ZTF18abqvwgc         2.1547           TDE?   
+5     ZTF20acjkcxh         2.1821           QSO   
+6     ZTF24abqaeai         2.1947           TDE?   
+7     ZTF23aaekere         2.3318           VAR   
+8     ZTF18abqvuvc         2.3874           QSO   
+9     ZTF19aalogva         2.4238           QSO   
+10    ZTF18acyeiup         2.4307           QSO   
 
 ================================================================================
